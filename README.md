@@ -1,1 +1,1 @@
-#GENSO
+#GENSOR
