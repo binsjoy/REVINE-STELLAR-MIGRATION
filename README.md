@@ -1,2 +1,2 @@
 #GENSORFLOW
-- gensorflow(golang-tensorf
+- gensorflow(golang-tensorfl
