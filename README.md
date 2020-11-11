@@ -1,3 +1,3 @@
 #GENSORFLOW
 - gensorflow(golang-tensorflow)
-- by 
+- by g
