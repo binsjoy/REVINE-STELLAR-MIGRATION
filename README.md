@@ -1,3 +1,3 @@
 #GENSORFLOW
 - gensorflow(golang-tensorflow)
-- by godshen(ShenZhong
+- by godshen(ShenZhongh
