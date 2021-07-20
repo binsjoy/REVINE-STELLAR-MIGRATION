@@ -5,4 +5,4 @@ import (
 	"log"
 
 	"github.com/chewxy/gorgonia"
-	"gorgonia.org/ten
+	"gorgonia.org/tenso
