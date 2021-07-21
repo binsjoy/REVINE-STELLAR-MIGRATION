@@ -8,4 +8,4 @@ import (
 	"gorgonia.org/tensor"
 )
 
-fu
+func
