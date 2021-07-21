@@ -8,4 +8,4 @@ import (
 	"gorgonia.org/tensor"
 )
 
-func m
+func main(
