@@ -9,4 +9,4 @@ import (
 )
 
 func main() {
-	g := gorgonia.
+	g := gorgonia.Ne
