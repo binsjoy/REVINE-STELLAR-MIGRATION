@@ -10,4 +10,4 @@ import (
 
 func main() {
 	g := gorgonia.NewGraph()
-	var x, y, z *gorgonia.N
+	var x, y, z *gorgonia.Nod
