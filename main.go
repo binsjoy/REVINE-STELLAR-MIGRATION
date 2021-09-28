@@ -13,4 +13,4 @@ func main() {
 	var x, y, z *gorgonia.Node
 	var err error
 	// define the expression
-	x = gorgonia.NewSc
+	x = gorgonia.NewSca
