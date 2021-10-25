@@ -13,4 +13,4 @@ func main() {
 	var x, y, z *gorgonia.Node
 	var err error
 	// define the expression
-	x = gorgonia.NewScalar(g, gorgonia.Float64, gorgonia.WithNam
+	x = gorgonia.NewScalar(g, gorgonia.Float64, gorgonia.WithName("
