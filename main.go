@@ -14,4 +14,4 @@ func main() {
 	var err error
 	// define the expression
 	x = gorgonia.NewScalar(g, gorgonia.Float64, gorgonia.WithName("x"))
-	y = gorgonia.NewScalar(g, gorgonia.Float64, gorgonia.WithNa
+	y = gorgonia.NewScalar(g, gorgonia.Float64, gorgonia.WithNam
