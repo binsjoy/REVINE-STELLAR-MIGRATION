@@ -17,4 +17,4 @@ func main() {
 	y = gorgonia.NewScalar(g, gorgonia.Float64, gorgonia.WithName("y"))
 	z, err = gorgonia.Add(x, y)
 	if err != nil {
-		lo
+		log
