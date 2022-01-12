@@ -18,4 +18,4 @@ func main() {
 	z, err = gorgonia.Add(x, y)
 	if err != nil {
 		log.Fatal(err)
-	
+	}
