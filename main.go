@@ -19,4 +19,4 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// create a VM to ru
+	// create a VM to run 
