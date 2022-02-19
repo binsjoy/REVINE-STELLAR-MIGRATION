@@ -19,4 +19,4 @@ func main() {
 	if err != nil {
 		log.Fatal(err)
 	}
-	// create a VM to run the pro
+	// create a VM to run the progr
