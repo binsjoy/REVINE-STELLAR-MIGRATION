@@ -20,4 +20,4 @@ func main() {
 		log.Fatal(err)
 	}
 	// create a VM to run the program on
-	machine := gorgonia.NewTapeMa
+	machine := gorgonia.NewTapeMac
