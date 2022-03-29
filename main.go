@@ -21,4 +21,4 @@ func main() {
 	}
 	// create a VM to run the program on
 	machine := gorgonia.NewTapeMachine(g)
-	// set initial values then ru
+	// set initial values then run
