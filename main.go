@@ -22,4 +22,4 @@ func main() {
 	// create a VM to run the program on
 	machine := gorgonia.NewTapeMachine(g)
 	// set initial values then run
-	gorgonia.Let(x, 2
+	gorgonia.Let(x, 2.0
