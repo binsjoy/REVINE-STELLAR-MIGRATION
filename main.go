@@ -24,4 +24,4 @@ func main() {
 	// set initial values then run
 	gorgonia.Let(x, 2.0)
 	gorgonia.Let(y, 2.5)
-	i
+	if 
