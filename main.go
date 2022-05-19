@@ -25,4 +25,4 @@ func main() {
 	gorgonia.Let(x, 2.0)
 	gorgonia.Let(y, 2.5)
 	if machine.RunAll() != nil {
-		lo
+		log
