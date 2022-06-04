@@ -26,3 +26,4 @@ func main() {
 	gorgonia.Let(y, 2.5)
 	if machine.RunAll() != nil {
 		log.Fatal(err)
+	
