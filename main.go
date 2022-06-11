@@ -27,4 +27,4 @@ func main() {
 	if machine.RunAll() != nil {
 		log.Fatal(err)
 	}
-	fmt.Printf("%v
+	fmt.Printf("%v\n",
