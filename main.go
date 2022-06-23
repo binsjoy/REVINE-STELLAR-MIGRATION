@@ -27,4 +27,4 @@ func main() {
 	if machine.RunAll() != nil {
 		log.Fatal(err)
 	}
-	fmt.Printf("%v\n", z.Va
+	fmt.Printf("%v\n", z.Valu
