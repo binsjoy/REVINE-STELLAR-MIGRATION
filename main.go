@@ -29,4 +29,4 @@ func main() {
 	}
 	fmt.Printf("%v\n", z.Value())
 
-	f
+	fm
