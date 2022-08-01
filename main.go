@@ -30,4 +30,4 @@ func main() {
 	fmt.Printf("%v\n", z.Value())
 
 	fmt.Println("go deepLearning")
-	a := tensor.Ne
+	a := tensor.New(t
