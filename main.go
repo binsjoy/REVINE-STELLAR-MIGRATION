@@ -31,3 +31,4 @@ func main() {
 
 	fmt.Println("go deepLearning")
 	a := tensor.New(tensor.WithShape(2, 2), tensor.WithBacking([]int{1, 2, 3, 4}))
+	f
