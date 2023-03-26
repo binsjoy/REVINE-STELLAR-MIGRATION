@@ -34,3 +34,4 @@ func main() {
 	fmt.Printf("a: \n%v\n", a)
 	b := tensor.New(tensor.WithBacking(tensor.Range(tensor.Float32, 0, 24)), tensor.WithShape(2, 3, 4))
 	fmt.Printf("b: \n%v\n", b)
+}
